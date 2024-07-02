@@ -6,10 +6,10 @@
 </div>
 
 <div id="socials" align="center">
-    <a href="linkedin-url">
-    <img src="https://www.linkedin.com/in/olha-litvinova-830318287/" alt="LinkedIn"/>
+    <a href="https://www.linkedin.com/in/olha-litvinova-830318287/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="telegram-url">
+  <a href="https://web.telegram.org/a/">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
