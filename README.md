@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
     <h1>Hi there, I'm  Olha </h1>
-    <h3>Front-End Developer from Dnipro, Ukraine</h3>
+    <h3>Front-End Developer from Ukraine</h3>
 </div>
 
 <div id="socials" align="center">
@@ -17,6 +17,7 @@
 ### About me
 - 🌱 I’m currently learning **React, Redux, TypeScript**
 - 📄 Know about my experiences [CV](cv-link)
+- 🔭 Exploring Technical Content Writing.
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/olha-litvinova-830318287/), [email](olgalitvinova1905@icloud.com)
 - 🌍 I speak Russian, Ukrainian, German, English.
 
