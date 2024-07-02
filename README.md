@@ -2,7 +2,7 @@
 
 <div id="header" align="center">
     <h1>Hi there, I'm  Olha </h1>
-    <h3>Front-End Developer from Ukraine</h3>
+    <h3>Junior Front-End Developer from Ukraine</h3>
 </div>
 
 <div id="socials" align="center">
