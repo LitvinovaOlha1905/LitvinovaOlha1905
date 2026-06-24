@@ -16,7 +16,7 @@
 
 ### About me
 - 🌱 I’m currently learning **React, Redux, TypeScript**
-- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1LdGFVcEocrEfNJ_-5BrRIQKZloA07nd3/view?usp=sharing)
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1hM3jOH5KjSvgTf82CKzHBI3esZJBchlD/view?usp=sharing)
 - 🔭 Exploring Technical Content Writing.
 - 📫 Reach me by [LinkedIn](https://www.linkedin.com/in/olha-litvinova-830318287/), [email](olhalitvinova1905@gmail.com)
 - 🌍 I speak Russian, Ukrainian, German, English.
